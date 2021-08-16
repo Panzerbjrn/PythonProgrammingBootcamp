@@ -14,7 +14,6 @@ for item in a_list:
     Acronym += item[0]
 
 print(Acronym)
-
 '''
 letter_z = "z"
 print("Is z a letter or number? ", letter_z.isalnum())

@@ -2,6 +2,7 @@
 num_3 = int(5)
 num_4 = int(4)
 
+
 def mult_divide(num_1, num_2):
     return (num_1 * num_2), (num_1 / num_2)
 
@@ -37,8 +38,8 @@ def sum_all(*args):
 
 
 print("Sum : ", sum_all(1, 2, 3, 4, 5))
-'''
 
+'''
 import math
 
 def Get-Area(shape):
@@ -54,6 +55,3 @@ def rectangle_area()
     
 
 def circle_area()
-
-'''
-'''

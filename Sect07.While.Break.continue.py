@@ -25,7 +25,7 @@ while i <= 20:
     #
 '''
     
-Rows = int(input('How any rows should the tree have? '))
+Rows = int(input('How many rows should the tree have? '))
 i = 1
 Hashes = 1
 while i <= Rows:
@@ -37,6 +37,8 @@ while i <= Rows:
 StumpIndent = Rows - 1
 print(" "*(Rows - 1),"#")
 #print(i)
+#print(i)
 
 '''
+
 '''

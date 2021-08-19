@@ -14,3 +14,7 @@ for i in range(10):
     investment = investment + (investment * interest)
 
 print("Investment after 10 years is: {:.2f}".format(investment))
+
+'''
+'''
+

@@ -32,5 +32,5 @@ sum += D("0.01")
 sum -= D("0.03")
 '''
 from decimal import *
-
 sum_1 = Decimal(0)
+

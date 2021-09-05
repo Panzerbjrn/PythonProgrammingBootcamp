@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MVA-LearningPython", "MVA-LearningPython\MVA-LearningPython.pyproj", "{0357FF86-7D41-4E63-885E-398FAA5CCB2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0357FF86-7D41-4E63-885E-398FAA5CCB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0357FF86-7D41-4E63-885E-398FAA5CCB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46FEDAD4-B082-4D1D-BC52-0FEC56AA5156}
+	EndGlobalSection
+EndGlobal

@@ -20,5 +20,6 @@ print("Is z a letter or number? ", letter_z.isalnum())
 print("Is z a letter? ", letter_z.isalpha())
 print("Is z a letter? ", letter_z.isdigit())
 '''
+
 '''
 
